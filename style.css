@@ -1,0 +1,21 @@
+body {
+  background: linear-gradient(135deg, #c9ffbf, #ffafbd);
+  font-family: "Poppins", sans-serif;
+}
+
+.form-card {
+  width: 100%;
+  max-width: 420px;
+  background-color: #fff;
+  border-radius: 16px;
+}
+
+input:focus {
+  border-color: #007bff;
+  box-shadow: 0 0 6px rgba(0, 123, 255, 0.4);
+}
+
+small {
+  font-size: 0.9rem;
+}
+
